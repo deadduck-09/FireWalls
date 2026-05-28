@@ -61,15 +61,13 @@ If you found a wallpaper you liked, consider **starring the repo**.
 It helps more people discover cool wallpapers.
 I'll organise the wallpapers into categories very soon ✌️
 
-## Preview
+## 🌌 Preview
 
 
-<p align="center">
-  <img src="./Desktop/Wallpapers/00069.jpg" width="48%">
-  <img src="./Desktop/Wallpapers/eren.jpg" width="48%">
-</p>
 
-<p align="center">
-  <img src="./Desktop/Wallpapers/Girl_with_latern.png" width="48%">
-  <img src="./Desktop/Wallpapers/Fire-catppuccin-mocha.jpg" width="48%">
-</p>
+| Preview | Preview |
+|----------|----------|
+| <img src="./Desktop/Wallpapers/00069.jpg" width="100%"> | <img src="./Desktop/Wallpapers/eren.jpg" width="100%"> |
+| <img src="./Desktop/Wallpapers/Girl_with_latern.png" width="100%"> | <img src="./Desktop/Wallpapers/Fire-catppuccin-mocha.jpg" width="100%"> |
+```
+
