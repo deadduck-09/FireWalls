@@ -22,7 +22,7 @@ High quality wallpapers for:
 * Minimal desktops
 * Anime & aesthetic setups
 
-📁 Browse here →  [Desktop Wallpapers](./Desktop)
+📁 Browse here →  [Desktop Wallpapers](./Desktop/Wallpapers)
 
 ---
 
