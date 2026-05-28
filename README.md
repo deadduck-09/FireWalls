@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./.banner.png" width="100%">
+</p>
+
 # 🖼️ FireWalls
 
 > A curated collection of aesthetic desktop and mobile wallpapers.
