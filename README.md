@@ -63,4 +63,13 @@ I'll organise the wallpapers into categories very soon ✌️
 
 ## Preview
 
-More previews coming soon 👀
+
+<p align="center">
+  <img src="./Desktop/eren.jpg" width="48%">
+  <img src="./Desktop/evangelion.png" width="48%">
+</p>
+
+<p align="center">
+  <img src="./Desktop/Evening_sky.png" width="48%">
+  <img src="./Desktop/Fire-catppuccin-mocha.jpg" width="48%">
+</p>
