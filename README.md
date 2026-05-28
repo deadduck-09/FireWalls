@@ -66,7 +66,7 @@ I'll organise the wallpapers into categories very soon ✌️
 
 <p align="center">
   <img src="./Desktop/Wallpapers/00069.jpg" width="48%">
-  <img src="./Desktop/Wallpapers/101818555_p0_master1200.jpg" width="48%">
+  <img src="./Desktop/Wallpapers/eren.jpg" width="48%">
 </p>
 
 <p align="center">
