@@ -65,11 +65,11 @@ I'll organise the wallpapers into categories very soon ✌️
 
 
 <p align="center">
-  <img src="./Desktop/eren.jpg" width="48%">
-  <img src="./Desktop/evangelion.png" width="48%">
+  <img src="./Desktop/Wallpapers/00069.jpg" width="48%">
+  <img src="./Desktop/Wallpapers/101818555_p0_master1200.jpg" width="48%">
 </p>
 
 <p align="center">
-  <img src="./Desktop/Evening_sky.png" width="48%">
-  <img src="./Desktop/Fire-catppuccin-mocha.jpg" width="48%">
+  <img src="./Desktop/Wallpapers/Girl_with_latern.png" width="48%">
+  <img src="./Desktop/Wallpapers/Fire-catppuccin-mocha.jpg" width="48%">
 </p>
