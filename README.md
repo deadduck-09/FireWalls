@@ -7,7 +7,7 @@
 > A curated collection of aesthetic desktop and mobile wallpapers.
 > Anime • Minimal • Cyberpunk • Nature • Cozy • Dark • Clean setups
 
-<img src="https://img.shields.io/github/stars/deadduck-09/FireWalls?style=for-the-badge"><img src="https://img.shields.io/github/last-commit/deadduck-09/FireWalls?style=for-the-badge"><img src="https://img.shields.io/github/license/deadduck-09/FireWalls?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/deadduck-09/FireWalls?style=for-the-badge"><img src="https://img.shields.io/github/last-commit/deadduck-09/FireWalls?style=for-the-badge"><img src="https://img.shields.io/github/license/deadduck-09/FireWalls?style=for-the-badge">
 
 
 ## ✨ About
