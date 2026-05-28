@@ -8,7 +8,7 @@
 **FireWalls** is my personal collection of wallpapers gathered over the years.
 A mix of clean desktops, anime aesthetics, moody skies, terminal vibes, cozy scenes, and wallpapers that simply look too good to ignore.
 
-New wallpapers will be added regularly.
+New wallpapers will be added often.
 
 ---
 
@@ -22,7 +22,7 @@ High quality wallpapers for:
 * Minimal desktops
 * Anime & aesthetic setups
 
-📁 Browse here → `Desktop/`
+📁 Browse here →  [Desktop Wallpapers](./Desktop)
 
 ---
 
@@ -36,7 +36,7 @@ Wallpapers optimized for:
 * Clean minimal homescreens
 * Dark & aesthetic vibes
 
-📁 Browse here → `Mobile/`
+📁 Browse here → [Mobile Wallpapers](./Mobile)
 
 ---
 
@@ -59,6 +59,7 @@ Current collection includes:
 
 If you found a wallpaper you liked, consider **starring the repo**.
 It helps more people discover cool wallpapers.
+I'll organise the wallpapers into categories very soon ✌️
 
 ## Preview
 
