@@ -44,12 +44,12 @@
 
 <table>
   <tr>
-    <td><img src="./Mobile/Anime/reze2.jpeg" width="140"></td>
-    <td><img src="./Mobile/Minimal/simple-duck.jpeg" width="140"></td>
+    <td><img src="./Mobile/Anime/reze2.jpeg" width="100"></td>
+    <td><img src="./Mobile/Minimal/simple-duck.jpeg" width="100"></td>
   </tr>
   <tr>
-    <td><img src="./Mobile/Cars/bmw-in-minecraft.jpeg" width="140"></td>
-    <td><img src="./Mobile/Games-And-Memes/dark-horse.jpeg" width="140"></td>
+    <td><img src="./Mobile/Cars/bmw-in-minecraft.jpeg" width="100"></td>
+    <td><img src="./Mobile/Games-And-Memes/dark-horse.jpeg" width="100"></td>
   </tr>
 </table>
 
