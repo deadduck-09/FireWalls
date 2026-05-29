@@ -82,7 +82,7 @@ If you want more wallpapers than what's in this repo, I built a web app for Fire
 
 ✨ Browse, preview, and discover wallpapers instantly  
 📱 Works on mobile + desktop  
-⚡ Faster updates than the repo
+⚡ Faster updates than the repo  
 🪷 Wallhaven but with Beauty
 
 👉 Open FireWalls Web App: https://firewalls-engine.vercel.app/
