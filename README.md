@@ -72,6 +72,7 @@ I'll organise the wallpapers into categories very soon ✌️
 
 
 
+| Preview | Preview |
 |----------|----------|
 | <img src="./Desktop/Wallpapers/00069.jpg" width="100%"> | <img src="./Desktop/Wallpapers/eren.jpg" width="100%"> |
 | <img src="./Desktop/Wallpapers/Girl_with_latern.png" width="100%"> | <img src="./Desktop/Wallpapers/Fire-catppuccin-mocha.jpg" width="100%"> |
