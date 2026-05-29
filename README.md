@@ -5,8 +5,8 @@
 <h2 align="center">FireWalls</h2>
 
 <p align="center">
-|A curated collection of aesthetic desktop and mobile wallpapers.<br>
-|Anime • Minimal • Cyberpunk • Nature • Cozy • Dark • Clean setups
+| A curated collection of aesthetic desktop and mobile wallpapers.<br>
+| Anime • Minimal • Cyberpunk • Nature • Cozy • Dark • Clean setups
 </p>
 
 <p align="center">
@@ -14,6 +14,16 @@
   <img src="https://img.shields.io/github/last-commit/deadduck-09/FireWalls?style=for-the-badge">
   <img src="https://img.shields.io/github/license/deadduck-09/FireWalls?style=for-the-badge">
 </p>
+
+---
+
+<p align="center">
+  <a href="https://firewalls-engine.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20FireWalls%20Web-Explore%20Now-00c7ff?style=for-the-badge">
+  </a>
+</p>
+
+---
 
 ## 🌌 Preview
 
@@ -33,10 +43,12 @@
 
 ## ✨ About
 
-**FireWalls** is my personal collection of wallpapers gathered over the years.
-A mix of clean desktops, anime aesthetics, moody skies, terminal vibes, cozy scenes, and wallpapers that simply look too good to ignore.
+**FireWalls** is my personal collection of wallpapers gathered over time.  
+A mix of clean desktops, anime aesthetics, moody skies, terminal vibes, cozy scenes, and wallpapers that just look too good to ignore.
 
 New wallpapers will be added often.
+
+👉 For a smoother browsing experience, check out the web version above.
 
 ---
 
@@ -44,11 +56,11 @@ New wallpapers will be added often.
 
 High quality wallpapers for:
 
-* PCs
-* Minimal desktops
-* Anime & aesthetic setups
+- PCs
+- Minimal desktops
+- Anime & aesthetic setups
 
-📁 Browse here →  [Desktop Wallpapers](./Desktop/Wallpapers)
+📁 Browse here → [Desktop Wallpapers](./Desktop/Wallpapers)
 
 ---
 
@@ -56,28 +68,41 @@ High quality wallpapers for:
 
 Wallpapers optimized for:
 
-* Anime themes
-* Clean minimal homescreens
-* Dark & aesthetic vibes
+- Anime themes
+- Clean home screens
+- Dark & aesthetic vibes
 
 📁 Browse here → [Mobile Wallpapers](./Mobile)
 
 ---
 
-### ⚠️ About this collection
+## 🌐 Explore Wallpapers Online
 
-This is my personal wallpaper collection that I’ve been curating over time.
+If you want more wallpapers than what's in this repo (or just prefer a smoother UI), I built a web app for FireWalls.
 
-Some of these wallpapers come from different places across the internet and social platforms.
+✨ Browse, preview, and discover wallpapers instantly  
+📱 Works on mobile + desktop  
+⚡ Faster updates than the repo
 
-If you’re the original artist and want credit or removal, feel free to reach out — I’ll fix it right away.
+👉 Open FireWalls Web App: https://your-web-app-link-here
 
-Big respect to all the creators out there. I’m just collecting things I genuinely like.
+---
+
+## ⚠️ About this collection
+
+This is a personal wallpaper collection curated over time.
+
+Some wallpapers come from various places across the internet and social platforms.
+
+If you're the original artist and want credit or removal, feel free to reach out — it will be handled quickly.
+
+Big respect to all creators. This repo is just a collection of things I genuinely like.
 
 ---
 
 ## ⭐ Support
 
-If you found a wallpaper you liked, consider **starring the repo**.
-It helps more people discover cool wallpapers.
-I'll organise the wallpapers into categories very soon ✌️
+If you found something you like, consider starring the repo ⭐  
+It helps more people discover it.
+
+More categories and organization coming soon ✌️
