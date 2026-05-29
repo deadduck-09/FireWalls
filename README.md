@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/deadduck-09/FireWalls?style=for-the-badge">
-  <img src="https://img.shields.io/github/last-commit/deadduck-09/FireWalls?style=for-the-badge">
+![Stars](https://img.shields.io/github/stars/deadduck-09/FireWalls?style=for-the-badge&cacheSeconds=60)
+![Last Commit](https://img.shields.io/github/last-commit/deadduck-09/FireWalls?style=for-the-badge&cacheSeconds=60)
   <img src="https://img.shields.io/github/license/deadduck-09/FireWalls?style=for-the-badge">
 </p>
 
