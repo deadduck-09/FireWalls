@@ -17,10 +17,30 @@
 
 ## 🌌 Preview
 
-| Wallpaper | Wallpaper |
-|-----------|-----------|
-| <img src="./Desktop/Wallpapers/00069.jpg" width="220"> | <img src="./Desktop/Wallpapers/eren.jpg" width="220"> |
-| <img src="./Desktop/Wallpapers/Girl_with_latern.png" width="220"> | <img src="./Desktop/Wallpapers/Fire-catppuccin-mocha.jpg" width="220"> |
+<table>
+  <tr>
+    <td valign="top">
+
+### 🖥️ Desktop Wallpapers
+
+|  |  |
+|--|--|
+| <img src="./Desktop/Wallpapers/00069.jpg" width="200"> | <img src="./Desktop/Wallpapers/eren.jpg" width="200"> |
+| <img src="./Desktop/Wallpapers/Girl_with_latern.png" width="200"> | <img src="./Desktop/Wallpapers/Fire-catppuccin-mocha.jpg" width="200"> |
+
+    </td>
+    <td valign="top">
+
+### 📱 Mobile Wallpapers
+
+|  |  |
+|--|--|
+| <img src="./Mobile/sample1.jpg" width="200"> | <img src="./Mobile/sample2.jpg" width="200"> |
+| <img src="./Mobile/sample3.jpg" width="200"> | <img src="./Mobile/sample4.jpg" width="200"> |
+
+    </td>
+  </tr>
+</table>
 
 ---
 
