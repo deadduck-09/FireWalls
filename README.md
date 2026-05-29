@@ -17,25 +17,43 @@
 
 ## 🌌 Preview
 
+<table width="100%">
+  <tr>
+    <!-- Desktop -->
+    <td width="50%" valign="top" align="center">
+
+<h3>🖥️ Desktop Wallpapers</h3>
+
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td><img src="./Desktop/Wallpapers/00069.jpg" width="180"></td>
+    <td><img src="./Desktop/Wallpapers/eren.jpg" width="180"></td>
+  </tr>
+  <tr>
+    <td><img src="./Desktop/Wallpapers/Girl_with_latern.png" width="180"></td>
+    <td><img src="./Desktop/Wallpapers/Fire-catppuccin-mocha.jpg" width="180"></td>
+  </tr>
+</table>
 
-<h3 align="center">🖥️ Desktop Wallpapers</h3>
+</td>
 
-<img src="./Desktop/Wallpapers/00069.jpg" width="200">
-<img src="./Desktop/Wallpapers/eren.jpg" width="200"><br>
-<img src="./Desktop/Wallpapers/Girl_with_latern.png" width="200">
-<img src="./Desktop/Wallpapers/Fire-catppuccin-mocha.jpg" width="200">
+<!-- Mobile -->
+<td width="50%" valign="top" align="center">
 
+<h3>📱 Mobile Wallpapers</h3>
 
-<h3 align="center">📱 Mobile Wallpapers</h3>
+<table>
+  <tr>
+    <td><img src="./Mobile/Anime/reze2.jpeg" width="140"></td>
+    <td><img src="./Mobile/Minimal/simple-duck.jpeg" width="140"></td>
+  </tr>
+  <tr>
+    <td><img src="./Mobile/Cars/bmw-in-minecraft.jpeg" width="140"></td>
+    <td><img src="./Mobile/Games-And-Memes/dark-horse.jpeg" width="140"></td>
+  </tr>
+</table>
 
-<img src="./Mobile/Anime/reze2.jpeg" width="200">
-<img src="./Mobile/Minimal/simple-duck.jpeg" width="200"><br>
-<img src="./Mobile/Cars/bmw-in-minecraft.jpeg" width="200">
-<img src="./Mobile/Games-And-Memes/dark-horse.jpeg" width="200">
-
+</td>
   </tr>
 </table>
 
