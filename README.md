@@ -9,9 +9,20 @@
 |Anime • Minimal • Cyberpunk • Nature • Cozy • Dark • Clean setups
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/stars/deadduck-09/FireWalls?style=for-the-badge">
+  <img src="https://img.shields.io/github/last-commit/deadduck-09/FireWalls?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/deadduck-09/FireWalls?style=for-the-badge">
+</p>
 
-<img src="https://img.shields.io/github/stars/deadduck-09/FireWalls?style=for-the-badge"><img src="https://img.shields.io/github/last-commit/deadduck-09/FireWalls?style=for-the-badge"><img src="https://img.shields.io/github/license/deadduck-09/FireWalls?style=for-the-badge">
+## 🌌 Preview
 
+| Wallpaper | Wallpaper |
+|-----------|-----------|
+| <img src="./Desktop/Wallpapers/00069.jpg" width="220"> | <img src="./Desktop/Wallpapers/eren.jpg" width="220"> |
+| <img src="./Desktop/Wallpapers/Girl_with_latern.png" width="220"> | <img src="./Desktop/Wallpapers/Fire-catppuccin-mocha.jpg" width="220"> |
+
+---
 
 ## ✨ About
 
@@ -27,8 +38,6 @@ New wallpapers will be added often.
 High quality wallpapers for:
 
 * PCs
-* Laptops
-* Ultrawide setups
 * Minimal desktops
 * Anime & aesthetic setups
 
@@ -40,8 +49,6 @@ High quality wallpapers for:
 
 Wallpapers optimized for:
 
-* Android devices
-* AMOLED screens
 * Anime themes
 * Clean minimal homescreens
 * Dark & aesthetic vibes
@@ -67,13 +74,3 @@ Big respect to all the creators out there. I’m just collecting things I genuin
 If you found a wallpaper you liked, consider **starring the repo**.
 It helps more people discover cool wallpapers.
 I'll organise the wallpapers into categories very soon ✌️
-
-## 🌌 Preview
-
-
-
-| Wallpaper | Wallpaper |
-|-----------|-----------|
-| <img src="./Desktop/Wallpapers/00069.jpg" width="100%"> | <img src="./Desktop/Wallpapers/eren.jpg" width="100%"> |
-| <img src="./Desktop/Wallpapers/Girl_with_latern.png" width="100%"> | <img src="./Desktop/Wallpapers/Fire-catppuccin-mocha.jpg" width="100%"> |
-
