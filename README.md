@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-![Stars](https://img.shields.io/github/stars/deadduck-09/FireWalls?style=for-the-badge&cacheSeconds=60)
-![Last Commit](https://img.shields.io/github/last-commit/deadduck-09/FireWalls?style=for-the-badge&cacheSeconds=60)
-  <img src="https://img.shields.io/github/license/deadduck-09/FireWalls?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/deadduck-09/FireWalls?style=for-the-badge&label=Stars&color=00c7ff" />
+  <img src="https://img.shields.io/github/last-commit/deadduck-09/FireWalls?style=for-the-badge&label=Last%20Update&color=ff4d6d" />
+  <img src="https://img.shields.io/github/license/deadduck-09/FireWalls?style=for-the-badge&label=License&color=green" />
 </p>
 
 ---
