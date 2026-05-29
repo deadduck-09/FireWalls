@@ -2,8 +2,8 @@
   <img src="./.banner.png" width="100%">
 </p>
 
-<p align="center">
-# 🖼️ FireWalls
+<p align="center"
+## 🖼️ FireWalls>
 
 > A curated collection of aesthetic desktop and mobile wallpapers.
 > Anime • Minimal • Cyberpunk • Nature • Cozy • Dark • Clean setups
