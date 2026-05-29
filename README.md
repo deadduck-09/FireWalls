@@ -2,11 +2,11 @@
   <img src="./.banner.png" width="100%">
 </p>
 
-<h2 align="center">🖼️ FireWalls</h2>
+<h2 align="center">FireWalls</h2>
 
-<p align="left">
-A curated collection of aesthetic desktop and mobile wallpapers.<br>
-Anime • Minimal • Cyberpunk • Nature • Cozy • Dark • Clean setups
+<p align="center">
+|A curated collection of aesthetic desktop and mobile wallpapers.<br>
+|Anime • Minimal • Cyberpunk • Nature • Cozy • Dark • Clean setups
 </p>
 
 
