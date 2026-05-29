@@ -17,10 +17,17 @@
 
 ## 🌌 Preview
 
-| Wallpaper | Wallpaper |
-|-----------|-----------|
-| <img src="./Desktop/Wallpapers/00069.jpg" width="220"> | <img src="./Desktop/Wallpapers/eren.jpg" width="220"> |
-| <img src="./Desktop/Wallpapers/Girl_with_latern.png" width="220"> | <img src="./Desktop/Wallpapers/Fire-catppuccin-mocha.jpg" width="220"> |
+<table align="center">
+<tr>
+  <td><img src="./Desktop/Wallpapers/00069.jpg" width="320"></td>
+  <td><img src="./Desktop/Wallpapers/eren.jpg" width="320"></td>
+</tr>
+
+<tr>
+  <td><img src="./Desktop/Wallpapers/Girl_with_latern.png" width="320"></td>
+  <td><img src="./Desktop/Wallpapers/Fire-catppuccin-mocha.jpg" width="320"></td>
+</tr>
+</table>
 
 ---
 
