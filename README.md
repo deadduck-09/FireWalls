@@ -28,9 +28,6 @@
 <img src="./Desktop/Wallpapers/Girl_with_latern.png" width="200">
 <img src="./Desktop/Wallpapers/Fire-catppuccin-mocha.jpg" width="200">
 
-    </td>
-
-    <td width="50%" valign="top">
 
 <h3 align="center">📱 Mobile Wallpapers</h3>
 
@@ -39,7 +36,6 @@
 <img src="./Mobile/Cars/bmw-in-minecraft.jpeg" width="200">
 <img src="./Mobile/Games-And-Memes/dark-horse.jpeg" width="200">
 
-    </td>
   </tr>
 </table>
 
