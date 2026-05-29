@@ -78,13 +78,14 @@ Wallpapers optimized for:
 
 ## 🌐 Explore Wallpapers Online
 
-If you want more wallpapers than what's in this repo (or just prefer a smoother UI), I built a web app for FireWalls.
+If you want more wallpapers than what's in this repo, I built a web app for FireWalls.
 
 ✨ Browse, preview, and discover wallpapers instantly  
 📱 Works on mobile + desktop  
 ⚡ Faster updates than the repo
+🪷 Wallhaven but with Beauty
 
-👉 Open FireWalls Web App: https://your-web-app-link-here
+👉 Open FireWalls Web App: https://firewalls-engine.vercel.app/
 
 ---
 
