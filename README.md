@@ -2,10 +2,12 @@
   <img src="./.banner.png" width="100%">
 </p>
 
+<p align="center">
 # 🖼️ FireWalls
 
 > A curated collection of aesthetic desktop and mobile wallpapers.
 > Anime • Minimal • Cyberpunk • Nature • Cozy • Dark • Clean setups
+</p>
 
 
 <img src="https://img.shields.io/github/stars/deadduck-09/FireWalls?style=for-the-badge"><img src="https://img.shields.io/github/last-commit/deadduck-09/FireWalls?style=for-the-badge"><img src="https://img.shields.io/github/license/deadduck-09/FireWalls?style=for-the-badge">
@@ -48,18 +50,15 @@ Wallpapers optimized for:
 
 ---
 
-## 🌌 Categories
+### ⚠️ About this collection
 
-Current collection includes:
+This is my personal wallpaper collection that I’ve been curating over time.
 
-* Anime
-* Minimal
-* Nature
-* Cyberpunk
-* Dark Themes
-* Aesthetic
-* Terminal / Linux vibes
-* Sky & Scenery
+Some of these wallpapers come from different places across the internet and social platforms.
+
+If you’re the original artist and want credit or removal, feel free to reach out — I’ll fix it right away.
+
+Big respect to all the creators out there. I’m just collecting things I genuinely like.
 
 ---
 
