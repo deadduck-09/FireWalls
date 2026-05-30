@@ -52,18 +52,6 @@ New wallpapers will be added often.
 
 ---
 
-## 🖥️ Desktop Wallpapers
-
-High quality wallpapers for:
-
-- PCs
-- Minimal desktops
-- Anime & aesthetic setups
-
-📁 Browse here → [Desktop Wallpapers](./Desktop/Wallpapers)
-
----
-
 ## 📱 Mobile Wallpapers
 
 Wallpapers optimized for:
