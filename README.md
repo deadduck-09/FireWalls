@@ -29,13 +29,13 @@
 
 <table align="center">
 <tr>
-  <td><img src="./Desktop/Wallpapers/00069.jpg" width="320"></td>
-  <td><img src="./Desktop/Wallpapers/eren.jpg" width="320"></td>
+  <td><img src="./Desktop/Wallpapers/Best-Collection/nazuna-2.png" width="320"></td>
+  <td><img src="./Desktop/Wallpapers/Best-Collection/anya-sleeping.jpg" width="320"></td>
 </tr>
 
 <tr>
-  <td><img src="./Desktop/Wallpapers/Girl_with_latern.png" width="320"></td>
-  <td><img src="./Desktop/Wallpapers/Fire-catppuccin-mocha.jpg" width="320"></td>
+  <td><img src="./Desktop/Wallpapers/Best-Collection/rayquaza.jpg" width="320"></td>
+  <td><img src="./Desktop/Wallpapers/Best-Collection/girl-with-flower-1.jpg" width="320"></td>
 </tr>
 </table>
 
