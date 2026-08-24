@@ -12,6 +12,8 @@
 <p align="center">
   <img src="https://img.shields.io/github/stars/deadduck-09/FireWalls?style=for-the-badge&label=Stars&color=00c7ff" alt="Stars" />
   <img src="https://img.shields.io/github/last-commit/deadduck-09/FireWalls?style=for-the-badge&label=Last%20Update&color=ff4d6d" alt="Last Commit" />
+  <img src="https://img.shields.io/github/repo-size/deadduck-09/FireWalls?style=for-the-badge&label=Repo%20Size&color=9b59b6" alt="Repo Size" />
+  <img src="https://img.shields.io/github/directory-file-count/deadduck-09/FireWalls?style=for-the-badge&label=Files&color=f39c12" alt="File Count" />
   <img src="https://img.shields.io/github/license/deadduck-09/FireWalls?style=for-the-badge&label=License&color=green" alt="License" />
 </p>
 
